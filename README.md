@@ -1,2 +1,3 @@
 # fast_api_example
-An example of FastAPI
+
+A quick example of FastApi.
